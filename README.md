@@ -4,8 +4,7 @@ Some basic self-imposed exercises for learning Haskell
 ### Implemented
 - Ex0 - Hello, world!
 - Ex1 - Increment the contents of a number-containing file.
+- Ex2 - TCP echo server.
 
 ### TODO
-- Ex2 - Simple Calculator (e.g. "2 * 2" => "4").
-- Ex3 - 2D maze generation algorithm.
-- Ex4 - TCP echo server.
+- Ex3 - [20 Intermediate Haskell Exercises[http://blog.tmorris.net/posts/20-intermediate-haskell-exercises/]
