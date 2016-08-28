@@ -7,4 +7,4 @@ Some basic self-imposed exercises for learning Haskell
 - Ex2 - TCP echo server.
 
 ### TODO
-- Ex3 - [20 Intermediate Haskell Exercises](http://blog.tmorris.net/posts/20-intermediate-haskell-exercises/)
+- Ex3 - _Partially finished_ [20 Intermediate Haskell Exercises](http://blog.tmorris.net/posts/20-intermediate-haskell-exercises/)
